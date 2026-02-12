@@ -1,0 +1,581 @@
+{
+    "success": true,
+    "data": [
+        {
+            "id": 187,
+            "type": "standard",
+            "name": "Letzte Nachricht von Dr. Dorf",
+            "value": 0,
+            "position": 0,
+            "solves": null,
+            "solved_by_me": true,
+            "category": "WarmUp",
+            "tags": [
+                {
+                    "value": "WarmUp"
+                }
+            ],
+            "template": "/plugins/challenges/assets/view.html",
+            "script": "/plugins/challenges/assets/view.js"
+        },
+        {
+            "id": 188,
+            "type": "standard",
+            "name": "chars",
+            "value": 0,
+            "position": 0,
+            "solves": null,
+            "solved_by_me": true,
+            "category": "WarmUp",
+            "tags": [
+                {
+                    "value": "osint"
+                }
+            ],
+            "template": "/plugins/challenges/assets/view.html",
+            "script": "/plugins/challenges/assets/view.js"
+        },
+        {
+            "id": 159,
+            "type": "standard",
+            "name": "Intro - Logbuch eines AURA-Dev",
+            "value": 1,
+            "position": 0,
+            "solves": null,
+            "solved_by_me": true,
+            "category": "Notizen eines AURA-Devs",
+            "tags": [
+                {
+                    "value": "intro"
+                }
+            ],
+            "template": "/plugins/challenges/assets/view.html",
+            "script": "/plugins/challenges/assets/view.js"
+        },
+        {
+            "id": 170,
+            "type": "standard",
+            "name": "Intro",
+            "value": 1,
+            "position": 0,
+            "solves": null,
+            "solved_by_me": true,
+            "category": "3D Labor",
+            "tags": [
+                {
+                    "value": "intro"
+                }
+            ],
+            "template": "/plugins/challenges/assets/view.html",
+            "script": "/plugins/challenges/assets/view.js"
+        },
+        {
+            "id": 175,
+            "type": "standard",
+            "name": "Intro - Im Fadenkreuz der KI",
+            "value": 1,
+            "position": 0,
+            "solves": null,
+            "solved_by_me": true,
+            "category": "Im Fadenkreuz der KI",
+            "tags": [
+                {
+                    "value": "Intro"
+                }
+            ],
+            "template": "/plugins/challenges/assets/view.html",
+            "script": "/plugins/challenges/assets/view.js"
+        },
+        {
+            "id": 181,
+            "type": "standard",
+            "name": "Intro - Fly away yeaaahhh yeahhhh yeahhh",
+            "value": 1,
+            "position": 0,
+            "solves": null,
+            "solved_by_me": true,
+            "category": "Raketen und Sterne",
+            "tags": [
+                {
+                    "value": "Hi"
+                }
+            ],
+            "template": "/plugins/challenges/assets/view.html",
+            "script": "/plugins/challenges/assets/view.js"
+        },
+        {
+            "id": 160,
+            "type": "standard",
+            "name": "Lost",
+            "value": 25,
+            "position": 0,
+            "solves": null,
+            "solved_by_me": true,
+            "category": "Notizen eines AURA-Devs",
+            "tags": [
+                {
+                    "value": "osint"
+                }
+            ],
+            "template": "/plugins/challenges/assets/view.html",
+            "script": "/plugins/challenges/assets/view.js"
+        },
+        {
+            "id": 171,
+            "type": "standard",
+            "name": "EmptyZip",
+            "value": 25,
+            "position": 0,
+            "solves": null,
+            "solved_by_me": true,
+            "category": "3D Labor",
+            "tags": [
+                {
+                    "value": "FORENSIC"
+                }
+            ],
+            "template": "/plugins/challenges/assets/view.html",
+            "script": "/plugins/challenges/assets/view.js"
+        },
+        {
+            "id": 176,
+            "type": "standard",
+            "name": "Burn the City",
+            "value": 25,
+            "position": 0,
+            "solves": null,
+            "solved_by_me": true,
+            "category": "Im Fadenkreuz der KI",
+            "tags": [
+                {
+                    "value": "Misc"
+                }
+            ],
+            "template": "/plugins/challenges/assets/view.html",
+            "script": "/plugins/challenges/assets/view.js"
+        },
+        {
+            "id": 182,
+            "type": "standard",
+            "name": "Files",
+            "value": 25,
+            "position": 0,
+            "solves": null,
+            "solved_by_me": true,
+            "category": "Raketen und Sterne",
+            "tags": [
+                {
+                    "value": "Hell, Dunkel, Licht und Schatten"
+                }
+            ],
+            "template": "/plugins/challenges/assets/view.html",
+            "script": "/plugins/challenges/assets/view.js"
+        },
+        {
+            "id": 183,
+            "type": "standard",
+            "name": "Formeln",
+            "value": 25,
+            "position": 0,
+            "solves": null,
+            "solved_by_me": true,
+            "category": "Raketen und Sterne",
+            "tags": [
+                {
+                    "value": "Rot, rot, rot sind alle meine Kleider"
+                }
+            ],
+            "template": "/plugins/challenges/assets/view.html",
+            "script": "/plugins/challenges/assets/view.js"
+        },
+        {
+            "id": 162,
+            "type": "standard",
+            "name": "Manual",
+            "value": 50,
+            "position": 0,
+            "solves": null,
+            "solved_by_me": true,
+            "category": "Notizen eines AURA-Devs",
+            "tags": [
+                {
+                    "value": "PWN"
+                }
+            ],
+            "template": "/plugins/challenges/assets/view.html",
+            "script": "/plugins/challenges/assets/view.js"
+        },
+        {
+            "id": 165,
+            "type": "standard",
+            "name": "Versteckt in Sichtweite",
+            "value": 50,
+            "position": 0,
+            "solves": null,
+            "solved_by_me": true,
+            "category": "Dr. Dorfs Vermaechtnis",
+            "tags": [
+                {
+                    "value": "Wireshark"
+                },
+                {
+                    "value": "DNS"
+                },
+                {
+                    "value": "Forensics"
+                },
+                {
+                    "value": "PCAP"
+                }
+            ],
+            "template": "/plugins/challenges/assets/view.html",
+            "script": "/plugins/challenges/assets/view.js"
+        },
+        {
+            "id": 168,
+            "type": "standard",
+            "name": "Der fehlerhafte Gruss-Service",
+            "value": 50,
+            "position": 0,
+            "solves": null,
+            "solved_by_me": true,
+            "category": "Dr. Dorfs Vermaechtnis",
+            "tags": [
+                {
+                    "value": "Web"
+                },
+                {
+                    "value": "SSTI"
+                },
+                {
+                    "value": "Flask"
+                },
+                {
+                    "value": "Hard"
+                }
+            ],
+            "template": "/plugins/challenges/assets/view.html",
+            "script": "/plugins/challenges/assets/view.js"
+        },
+        {
+            "id": 172,
+            "type": "standard",
+            "name": "StrangeShape",
+            "value": 50,
+            "position": 0,
+            "solves": null,
+            "solved_by_me": true,
+            "category": "3D Labor",
+            "tags": [
+                {
+                    "value": "OSINT"
+                }
+            ],
+            "template": "/plugins/challenges/assets/view.html",
+            "script": "/plugins/challenges/assets/view.js"
+        },
+        {
+            "id": 173,
+            "type": "standard",
+            "name": "SeltsameMusik",
+            "value": 50,
+            "position": 0,
+            "solves": null,
+            "solved_by_me": true,
+            "category": "3D Labor",
+            "tags": [
+                {
+                    "value": "STEGANOGRAFIE"
+                }
+            ],
+            "template": "/plugins/challenges/assets/view.html",
+            "script": "/plugins/challenges/assets/view.js"
+        },
+        {
+            "id": 177,
+            "type": "standard",
+            "name": "AURORA Dashboard",
+            "value": 50,
+            "position": 0,
+            "solves": null,
+            "solved_by_me": true,
+            "category": "Im Fadenkreuz der KI",
+            "tags": [
+                {
+                    "value": "Web"
+                }
+            ],
+            "template": "/plugins/challenges/assets/view.html",
+            "script": "/plugins/challenges/assets/view.js"
+        },
+        {
+            "id": 178,
+            "type": "standard",
+            "name": "Where are my keys?",
+            "value": 50,
+            "position": 0,
+            "solves": null,
+            "solved_by_me": true,
+            "category": "Im Fadenkreuz der KI",
+            "tags": [
+                {
+                    "value": "Crypto"
+                }
+            ],
+            "template": "/plugins/challenges/assets/view.html",
+            "script": "/plugins/challenges/assets/view.js"
+        },
+        {
+            "id": 186,
+            "type": "standard",
+            "name": "Rockets",
+            "value": 50,
+            "position": 0,
+            "solves": null,
+            "solved_by_me": true,
+            "category": "Raketen und Sterne",
+            "tags": [
+                {
+                    "value": "Schnee ist kalt"
+                }
+            ],
+            "template": "/plugins/challenges/assets/view.html",
+            "script": "/plugins/challenges/assets/view.js"
+        },
+        {
+            "id": 151,
+            "type": "standard",
+            "name": "AuroraPrint",
+            "value": 100,
+            "position": 0,
+            "solves": null,
+            "solved_by_me": true,
+            "category": "3D Labor",
+            "tags": [
+                {
+                    "value": "KRYPTO"
+                }
+            ],
+            "template": "/plugins/challenges/assets/view.html",
+            "script": "/plugins/challenges/assets/view.js"
+        },
+        {
+            "id": 164,
+            "type": "standard",
+            "name": "Wuerfels",
+            "value": 100,
+            "position": 0,
+            "solves": null,
+            "solved_by_me": true,
+            "category": "Notizen eines AURA-Devs",
+            "tags": [
+                {
+                    "value": "Reverse Engineering"
+                },
+                {
+                    "value": "cryptography"
+                }
+            ],
+            "template": "/plugins/challenges/assets/view.html",
+            "script": "/plugins/challenges/assets/view.js"
+        },
+        {
+            "id": 166,
+            "type": "standard",
+            "name": "Der verdorbene Code",
+            "value": 100,
+            "position": 0,
+            "solves": null,
+            "solved_by_me": true,
+            "category": "Dr. Dorfs Vermaechtnis",
+            "tags": [
+                {
+                    "value": "Reverse Engineering"
+                },
+                {
+                    "value": "Crypto"
+                },
+                {
+                    "value": "LCG"
+                },
+                {
+                    "value": "Hard"
+                }
+            ],
+            "template": "/plugins/challenges/assets/view.html",
+            "script": "/plugins/challenges/assets/view.js"
+        },
+        {
+            "id": 167,
+            "type": "standard",
+            "name": "Versteckt und Verschluesselt",
+            "value": 100,
+            "position": 0,
+            "solves": null,
+            "solved_by_me": true,
+            "category": "Dr. Dorfs Vermaechtnis",
+            "tags": [
+                {
+                    "value": "Steganography"
+                },
+                {
+                    "value": "Crypto"
+                },
+                {
+                    "value": "RSA"
+                },
+                {
+                    "value": "Hard"
+                }
+            ],
+            "template": "/plugins/challenges/assets/view.html",
+            "script": "/plugins/challenges/assets/view.js"
+        },
+        {
+            "id": 169,
+            "type": "standard",
+            "name": "Der verschluesselte Bericht",
+            "value": 100,
+            "position": 0,
+            "solves": null,
+            "solved_by_me": true,
+            "category": "Dr. Dorfs Vermaechtnis",
+            "tags": [
+                {
+                    "value": "Rev"
+                },
+                {
+                    "value": "Reversing"
+                },
+                {
+                    "value": "Crypto"
+                },
+                {
+                    "value": "Hard"
+                }
+            ],
+            "template": "/plugins/challenges/assets/view.html",
+            "script": "/plugins/challenges/assets/view.js"
+        },
+        {
+            "id": 174,
+            "type": "standard",
+            "name": "FilamentCiphre",
+            "value": 100,
+            "position": 0,
+            "solves": null,
+            "solved_by_me": true,
+            "category": "3D Labor",
+            "tags": [
+                {
+                    "value": "KRYPTO"
+                }
+            ],
+            "template": "/plugins/challenges/assets/view.html",
+            "script": "/plugins/challenges/assets/view.js"
+        },
+        {
+            "id": 179,
+            "type": "standard",
+            "name": "Fileless?",
+            "value": 100,
+            "position": 0,
+            "solves": null,
+            "solved_by_me": true,
+            "category": "Im Fadenkreuz der KI",
+            "tags": [
+                {
+                    "value": "Forensic"
+                }
+            ],
+            "template": "/plugins/challenges/assets/view.html",
+            "script": "/plugins/challenges/assets/view.js"
+        },
+        {
+            "id": 180,
+            "type": "standard",
+            "name": "No Time",
+            "value": 100,
+            "position": 0,
+            "solves": null,
+            "solved_by_me": true,
+            "category": "Im Fadenkreuz der KI",
+            "tags": [
+                {
+                    "value": "Web"
+                }
+            ],
+            "template": "/plugins/challenges/assets/view.html",
+            "script": "/plugins/challenges/assets/view.js"
+        },
+        {
+            "id": 184,
+            "type": "standard",
+            "name": "R\u00e4tseln",
+            "value": 100,
+            "position": 0,
+            "solves": null,
+            "solved_by_me": true,
+            "category": "Raketen und Sterne",
+            "tags": [
+                {
+                    "value": "Oben 3, Links 4: Baum"
+                }
+            ],
+            "template": "/plugins/challenges/assets/view.html",
+            "script": "/plugins/challenges/assets/view.js"
+        },
+        {
+            "id": 185,
+            "type": "standard",
+            "name": "Observe and protect",
+            "value": 100,
+            "position": 0,
+            "solves": null,
+            "solved_by_me": true,
+            "category": "Raketen und Sterne",
+            "tags": [
+                {
+                    "value": "This is rocket science"
+                }
+            ],
+            "template": "/plugins/challenges/assets/view.html",
+            "script": "/plugins/challenges/assets/view.js"
+        },
+        "COMMENT: Removed challenges below (reconstructed from memory, may be inaccurate)",
+        {
+            "id": -1,
+            "type": "standard",
+            "name": "Running",
+            "value": 100,
+            "position": 0,
+            "solves": null,
+            "solved_by_me": true,
+            "category": "Notizen eines AURA-Devs",
+            "tags": [
+                {
+                    "value": "OSINT"
+                }
+            ],
+            "template": "/plugins/challenges/assets/view.html",
+            "script": "/plugins/challenges/assets/view.js"
+        },
+        {
+            "id": -1,
+            "type": "standard",
+            "name": "Breaking",
+            "value": 50,
+            "position": 0,
+            "solves": null,
+            "solved_by_me": true,
+            "category": "Notizen eines AURA-Devs",
+            "tags": [
+                {
+                    "value": "Steganography"
+                }
+            ],
+            "template": "/plugins/challenges/assets/view.html",
+            "script": "/plugins/challenges/assets/view.js"
+        }
+    ]
+}
